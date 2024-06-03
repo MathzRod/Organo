@@ -6,14 +6,22 @@
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
+    color: #FFFFFF;
 }
 
 .campo-texto input {
-    background-color: #FFF;
+    background-color: #1B1B1B;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     width: 100%;
     border: none;
     font-size: 24px;
     padding: 24px;
     box-sizing: border-box;
+    color:#42FEFC ;
+    border-radius: 10px;
+
+}
+
+::-webkit-input-placeholder{
+    color: white
 }

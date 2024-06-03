@@ -1,15 +1,16 @@
 .botao {
-    background-color: #6278f7;
+    background-color: #1B1B1B;
     border-radius: 10px;
     font-weight: 700;
     font-size: 18px;
     padding: 32px;
     border: none;
     cursor: pointer;
-    color: #FFF;
+    color: #FCFF59;
     margin: 32px 0;
 }
 
 .botao:hover {
-    color: #95FFD4;
+    color: #42FEFC;
+    
 }
